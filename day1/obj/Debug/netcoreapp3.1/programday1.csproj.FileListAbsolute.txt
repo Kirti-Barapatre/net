@@ -1,0 +1,13 @@
+C:\Users\Snehal\Desktop\C#\day1c#\programday1\bin\Debug\netcoreapp3.1\programday1.exe
+C:\Users\Snehal\Desktop\C#\day1c#\programday1\bin\Debug\netcoreapp3.1\programday1.deps.json
+C:\Users\Snehal\Desktop\C#\day1c#\programday1\bin\Debug\netcoreapp3.1\programday1.runtimeconfig.json
+C:\Users\Snehal\Desktop\C#\day1c#\programday1\bin\Debug\netcoreapp3.1\programday1.runtimeconfig.dev.json
+C:\Users\Snehal\Desktop\C#\day1c#\programday1\bin\Debug\netcoreapp3.1\programday1.dll
+C:\Users\Snehal\Desktop\C#\day1c#\programday1\bin\Debug\netcoreapp3.1\programday1.pdb
+C:\Users\Snehal\Desktop\C#\day1c#\programday1\obj\Debug\netcoreapp3.1\programday1.csproj.AssemblyReference.cache
+C:\Users\Snehal\Desktop\C#\day1c#\programday1\obj\Debug\netcoreapp3.1\programday1.AssemblyInfoInputs.cache
+C:\Users\Snehal\Desktop\C#\day1c#\programday1\obj\Debug\netcoreapp3.1\programday1.AssemblyInfo.cs
+C:\Users\Snehal\Desktop\C#\day1c#\programday1\obj\Debug\netcoreapp3.1\programday1.csproj.CoreCompileInputs.cache
+C:\Users\Snehal\Desktop\C#\day1c#\programday1\obj\Debug\netcoreapp3.1\programday1.dll
+C:\Users\Snehal\Desktop\C#\day1c#\programday1\obj\Debug\netcoreapp3.1\programday1.pdb
+C:\Users\Snehal\Desktop\C#\day1c#\programday1\obj\Debug\netcoreapp3.1\programday1.genruntimeconfig.cache
