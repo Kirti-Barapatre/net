@@ -8,6 +8,7 @@ namespace programday1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hi All");
+Console.WriteLine("Hi All");
         }
     }
 }
